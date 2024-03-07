@@ -1,4 +1,6 @@
-# client.py
+# client.py   -- client side of the system!!
+
+    
 import socket
 import time
 
