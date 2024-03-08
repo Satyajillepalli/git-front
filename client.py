@@ -1,4 +1,4 @@
-# client.py   -- client side of the system!!
+# client.py   -- client side of the system!! websockets
 
     
 import socket
