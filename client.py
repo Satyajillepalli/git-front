@@ -1,5 +1,5 @@
 # client.py   -- client side of the system!! websockets
-
+# web are used for the transfer the services
     
 import socket
 import time

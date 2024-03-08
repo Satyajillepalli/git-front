@@ -1,0 +1,2 @@
+username = ng1234
+password = 123456
