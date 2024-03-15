@@ -1,5 +1,7 @@
 # client.py   -- client side of the system!! websockets
 # web are used for the transfer the services
+
+#  python websockets are crucial for the networking
     
 import socket
 import time
